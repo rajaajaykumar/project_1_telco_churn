@@ -1,0 +1,11 @@
+.vscode/
+# Python
+__pycache__/
+*.pyc
+.venv
+.venv.*
+# Data
+data/
+outputs/
+# Jupyter
+.ipynb_checkpoints
