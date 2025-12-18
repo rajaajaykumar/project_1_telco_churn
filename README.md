@@ -63,6 +63,7 @@ These improve downstream modeling and interpretability.
 
 # Project Structure
 
+```text
 ├── data/
 │ ├── raw/
 │ ├── processed/
@@ -70,7 +71,7 @@ These improve downstream modeling and interpretability.
 ├── reports/
 │ └── report.md
 └── README.md
-
+```
 
 ---
 
